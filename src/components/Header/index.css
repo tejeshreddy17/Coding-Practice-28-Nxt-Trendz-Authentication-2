@@ -103,6 +103,14 @@
   font-size: 16px;
   color: #475569;
 }
+.link-item {
+  text-decoration: none;
+  margin: 10px;
+  font-weight: 400;
+  font-size: 16px;
+  color: #475569;
+  font-family: 'Roboto';
+}
 
 .nav-menu-item-mobile {
   margin: 0px;

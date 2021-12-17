@@ -41,14 +41,14 @@ const Header = props => {
               alt="website logo"
             />
             <ul className="nav-menu">
-              <Link to="/">
+              <Link className="link-item" to="/">
                 <li className="nav-menu-item">Home</li>
               </Link>
-              <Link to="/products">
+              <Link className="link-item" to="/products">
                 <li className="nav-menu-item">Products</li>
               </Link>
 
-              <Link to="/cart">
+              <Link className="link-item" to="/cart">
                 <li className="nav-menu-item">Cart</li>
               </Link>
             </ul>
